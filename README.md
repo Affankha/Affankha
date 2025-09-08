@@ -1,22 +1,23 @@
-## <h1 align="center">Hi 👋, I am Affan</h1>
-![Profile Views](https://komarev.com/ghpvc/?username=Affankha&color=blue&style=flat)
+## <h1 align="center">Hi 👋, I am Affan</h1>                                                                          ![Profile Views](https://komarev.com/ghpvc/?username=Affankha&color=blue&style=flat)
 
 
 A full stack web Developer🧑‍💻 Designer🎯 from India✨
 
 - 👨‍💻 Full Stack MERN Developer
-- 🎙 Freelance website create  <link href="https://affan-portfolio-two.vercel.app/">affan-portfolio</link>.
+- 🎙 Freelance website create [affan-portfolio](https://affan-portfolio-two.vercel.app/)
 
 -  🔭 I’m currently working on **MERN Stack Projects**
 - 🌱 I’m currently learning **Next.js, Docker, and Letus technology**
 - 👯 I’m looking to collaborate on **Full Stack Web Development projects**
 - 🤝 I’m looking for help with **Open Source Contributions & Cloud Deployment**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and Web Development**
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanaffan34163@gmail.com) | [LinkedIn](https://www.linkedin.com/in/affan-khan12/)
+- 📫 How to reach me: [Gmail](mailto:khanaffan34163@gmail.com) | [LinkedIn](https://www.linkedin.com/in/affan-khan12/)
 - ⚡ Fun fact: **I love building projects that solve real-world problems 🚀**
 
 
+
 ## 💻 Languages & Tools
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -45,9 +46,6 @@ A full stack web Developer🧑‍💻 Designer🎯 from India✨
 <p align="center">
   <a href="https://www.linkedin.com/in/affan-khan12/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/official_affan_khan99/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="mailto:khanaffan34163@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
