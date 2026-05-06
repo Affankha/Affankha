@@ -23,7 +23,6 @@ const affan = {
   currentlyLearning: ["LLMs", "n8n Automation", "Letus Technology"],
   lookingFor: "Full Stack Collaborations & Open Source Contributions",
   funFact: "I build things that solve real problems 🚀",
-  reachOut: "khanaffan34163@gmail.com"
 };
 ```
 
@@ -80,20 +79,6 @@ const affan = {
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🏛️ **[Library Management System](https://github.com/Affankha/Library-manegment-system)** | Full-featured online library management using MERN stack | MongoDB, Express, React, Node.js |
-| 🍽️ **[Zam-Zam Restaurant](https://github.com/Affankha/Zam-Zam-Restaurant)** | Restaurant web app with online table booking | React, Node.js |
-| 🍴 **[Restaurant Landing Page](https://github.com/Affankha/prodigy_wd_1)** | Elegant restaurant landing page | HTML, CSS |
-| 🧮 **[Calculator App](https://github.com/Affankha/index.html)** | Clean calculator built with vanilla web tech | HTML, CSS, JS |
-
-</div>
-
 > 🌐 Check out my full portfolio → **[affan-portfolio-two.vercel.app](https://affan-portfolio-two.vercel.app/)**
 
 ---
@@ -113,7 +98,6 @@ const affan = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affan-khan-9098b4252/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanaffan34163@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://affan-portfolio-two.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Affankha)
 
