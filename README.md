@@ -1,53 +1,130 @@
-## <h1 align="center">Hi 👋, I am Affan</h1>                                                                          ![Profile Views](https://komarev.com/ghpvc/?username=Affankha&color=blue&style=flat)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Affan%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-A full stack web Developer🧑‍💻 Designer🎯 from India✨
+</div>
 
-- 👨‍💻 As a versatile Full Stack Developer, I specialize in creating dynamic web applications using React, NExtJs, Mongodb, and Node.js.
-- 🎙 My portfolio [affan-portfolio](https://affan-portfolio-two.vercel.app/)
+<div align="center">
 
--  🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m currently learning **LLM's, N8N, and Letus technology**
-- 👯 I’m looking to collaborate on **Full Stack Web Development projects**
-- 🤝 I’m looking for help with **Open Source Contributions & Cloud Deployment**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and Web Development**
-- 📫 How to reach me: [Gmail](mailto:khanaffan34163@gmail.com) | [LinkedIn](https://www.linkedin.com/in/affan-khan12/)
-- ⚡ Fun fact: **I love building projects that solve real-world problems 🚀**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+Next.js+%7C+TypeScript;Learning+LLMs+%26+AI+Automation+%F0%9F%A4%96;Open+to+Collaborate+%26+Contribute+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
+</div>
 
+---
 
-## 💻 Languages & Tools
+## 👨‍💻 About Me
 
-<p className="flex flex-wrap gap-4 items-center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-</p>
+```javascript
+const affan = {
+  name: "Affan Khan",
+  location: "Jalna, Maharashtra 🇮🇳",
+  role: "Full Stack Developer",
+  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
+  currentlyLearning: ["LLMs", "n8n Automation", "Letus Technology"],
+  lookingFor: "Full Stack Collaborations & Open Source Contributions",
+  funFact: "I build things that solve real problems 🚀",
+  reachOut: "khanaffan34163@gmail.com"
+};
+```
 
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Affankha&show_icons=true&theme=radical)
+## 🛠️ Tech Stack
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Affankha&layout=compact&theme=radical)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Affankha&theme=radical)
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Affankha&color=blue)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🔗 Connect with me 🤝
-<p align="flex justify-center gap-6 items-center">
-  <a href="https://www.linkedin.com/in/affan-khan12/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:khanaffan34163@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-</p>
+### 🤖 Currently Exploring
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Affankha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affankha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Affankha&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+[![Affan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Affankha&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/Affankha)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏛️ **[Library Management System](https://github.com/Affankha/Library-manegment-system)** | Full-featured online library management using MERN stack | MongoDB, Express, React, Node.js |
+| 🍽️ **[Zam-Zam Restaurant](https://github.com/Affankha/Zam-Zam-Restaurant)** | Restaurant web app with online table booking | React, Node.js |
+| 🍴 **[Restaurant Landing Page](https://github.com/Affankha/prodigy_wd_1)** | Elegant restaurant landing page | HTML, CSS |
+| 🧮 **[Calculator App](https://github.com/Affankha/index.html)** | Clean calculator built with vanilla web tech | HTML, CSS, JS |
+
+</div>
+
+> 🌐 Check out my full portfolio → **[affan-portfolio-two.vercel.app](https://affan-portfolio-two.vercel.app/)**
+
+---
+
+## 🎯 What I'm Up To
+
+- 🔭 **Building** MERN Stack projects end-to-end
+- 🌱 **Learning** LLMs, n8n workflows, and AI automation
+- 👯 **Open to** Full Stack collaborations and open source
+- 🤝 **Seeking help with** Cloud deployment & DevOps best practices
+- 💬 **Ask me about** JavaScript, React, Node.js, MongoDB
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affan-khan-9098b4252/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanaffan34163@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://affan-portfolio-two.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Affankha)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Affankha&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+</div>
